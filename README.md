@@ -35,8 +35,7 @@ SimpleSSL Tool includes functionalities such as:
 
 ## Usage:
 
-If you download the binary file simple place into /bin/ and run simplessl
-If you download the shell script run the following commands:
+All you need to do is grant executable rights to the shell script and place into the /bin or /usr/bin folder.
 
 ```bash
 chmod +x ./simplessl.sh
