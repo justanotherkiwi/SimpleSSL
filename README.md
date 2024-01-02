@@ -40,9 +40,16 @@ If you download the shell script run the following commands:
 
 ```bash
 chmod +x ./simplessl.sh
-./simplessl.sh
+sudo mv simplessl.sh /bin/simplessl
+simplessl
 ```
+![image](https://github.com/justanotherkiwi/SimpleSSL/assets/76455604/c0d0a8de-be7a-4f59-a2b6-0b2b03411d16)
 
 ## Changelog
 
-- 3/01/2024: General public release.
+3/01/2024:
+- Added screenshot.
+- Updating README.MD
+- Removed Binary file.
+- Confimred Binary file is damaged.
+- General public release.
