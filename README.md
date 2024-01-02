@@ -41,3 +41,8 @@ If you download the shell script run the following commands:
 ```bash
 chmod +x ./simplessl.sh
 ./simplessl.sh
+```
+
+## Changelog
+
+- 3/01/2024: General public release.
