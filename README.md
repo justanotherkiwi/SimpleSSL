@@ -43,6 +43,7 @@ sudo mv simplessl.sh /bin/simplessl
 simplessl
 ```
 ![image](https://github.com/justanotherkiwi/SimpleSSL/assets/76455604/c0d0a8de-be7a-4f59-a2b6-0b2b03411d16)
+![image](https://github.com/justanotherkiwi/SimpleSSL/assets/76455604/7b4b5d3b-6318-4d74-a275-98f634b426d6)
 
 ## Changelog
 
