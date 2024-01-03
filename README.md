@@ -39,8 +39,8 @@ SimpleSSL Tool includes functionalities such as:
 All you need to do is grant executable rights to the shell script and place into the /bin or /usr/local/bin folder.
 
 ```bash
-chmod +x ./simplessl.sh
-sudo mv simplessl.sh /bin/simplessl
+chmod +x ./simplessl-v2.sh
+sudo mv simplessl-v2.sh /bin/simplessl
 simplessl
 ```
 ![image](https://github.com/justanotherkiwi/SimpleSSL/assets/76455604/c0d0a8de-be7a-4f59-a2b6-0b2b03411d16)
