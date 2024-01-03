@@ -7,8 +7,8 @@ SimpleSSL Tool is a versatile script designed for managing various SSL certifica
 This is beta code, so if it does not work as expected please let me know and provide as much feedback I will endeavour to fix up as much as possible.
 
 ### Versions:
-1.0-PROD
-2.0-TESTING
+- 1.0-PROD (Not pretty but gets the job done).
+- 2.0-TESTING (Might have bugs).
 
 ### Author:
 Jayson Barnden
